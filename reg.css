@@ -1,0 +1,32 @@
+body{
+    color: black;
+    position: absolute;
+    background-color: darkorchid;
+}
+/*
+.container{
+    background-color: cyan;
+    width: 600px;
+    height: 500px;
+    position: absolute;
+    margin-top: 80px;
+    margin-left: 450px;
+    padding: 6px;
+}
+*/
+div{
+    padding-top: 30px;
+    padding-bottom: 70px;
+    padding-right: 60px;
+    padding-left: 100px;
+    background: lightgrey;
+    border: 10px solid skyblue;
+    margin: 90px;
+    box-sizing: border-box;
+    line-height: 25px;
+    margin-left: 550px;
+    margin-top: 100px;
+}
+input{
+    color: red;
+}
